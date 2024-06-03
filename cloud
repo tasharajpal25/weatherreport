@@ -1,0 +1,15 @@
+
+
+
+cloud_pct=response.pct
+temp=response.tem
+feels_like=response.feelslike
+humidity=response.humi
+min_temp=response.min
+max_temp=response.max
+wind_speed=response.winds
+wind_degrees=response.windd
+sunrise=response.sunr
+sunset=response.suns
+
+3ef34f737def1e9b2c441b13f5920a99
